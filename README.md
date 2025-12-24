@@ -1,16 +1,42 @@
-## Hi there 👋
+# Arya Sharma
 
-<!--
-**arya-5990/arya-5990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Open Source Contributor | GSoC 2026 Applicant
 
-Here are some ideas to get you started:
+I am a software developer focused on building efficient web and backend systems. My current goal is to master large-scale collaborative workflows and contribute meaningfully to the open-source ecosystem as I prepare for Google Summer of Code 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Technical Skills
+
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | JavaScript, Python, C |
+| **Frontend** | React, HTML5, CSS3 |
+| **Backend** | Node.js, Firebase, REST APIs |
+| **Tools** | Git, GitHub, Linux, Unit Testing |
+
+---
+
+### Open Source Focus
+
+I am currently learning how to navigate large codebases and improve project maintainability.
+
+* **Targeting:** [Insert Organization Name]
+* **Current Activity:** Enhancing documentation, fixing bugs, and learning CI/CD pipelines.
+* **Objective:** Establishing long-term involvement with a single community to contribute high-impact features.
+
+---
+
+### Learning and Growth
+
+* **Clean Code:** Prioritizing readability and the principle of leaving code better than I found it.
+* **Communication:** Engaging in project mailing lists and developer chat channels.
+* **QA & Testing:** Deepening my understanding of automated testing and quality assurance in open-source projects.
+
+---
+
+### Links
+
+* **GitHub:** [github.com/arya-5990](https://github.com/arya-5990)
+* **LinkedIn:** [Arya Sharma]((https://www.linkedin.com/in/arya-sharma-1963b030a/))
+* **Portfolio:** [(https://aryasharmaport.netlify.app/)]
