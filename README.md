@@ -19,18 +19,17 @@ I am a software developer focused on building efficient web and backend systems.
 
 ### Open Source Focus
 
-I am currently learning how to navigate large codebases and improve project maintainability.
+I am currently learning how to navigate large codebases and improve project maintainability across various web and backend projects.
 
-* **Targeting:** [Insert Organization Name]
 * **Current Activity:** Enhancing documentation, fixing bugs, and learning CI/CD pipelines.
-* **Objective:** Establishing long-term involvement with a single community to contribute high-impact features.
+* **Objective:** Establishing long-term involvement with an organization to contribute high-impact features and improve system reliability.
 
 ---
 
 ### Learning and Growth
 
 * **Clean Code:** Prioritizing readability and the principle of leaving code better than I found it.
-* **Communication:** Engaging in project mailing lists and developer chat channels.
+* **Communication:** Engaging in project mailing lists and developer chat channels to understand community standards.
 * **QA & Testing:** Deepening my understanding of automated testing and quality assurance in open-source projects.
 
 ---
@@ -38,5 +37,5 @@ I am currently learning how to navigate large codebases and improve project main
 ### Links
 
 * **GitHub:** [github.com/arya-5990](https://github.com/arya-5990)
-* **LinkedIn:** [Arya Sharma]((https://www.linkedin.com/in/arya-sharma-1963b030a/))
-* **Portfolio:** [(https://aryasharmaport.netlify.app/)]
+* **LinkedIn:** [Arya Sharma](https://www.linkedin.com/in/arya-sharma-1963b030a/)
+* **Portfolio:** [aryasharmaport.netlify.app](https://aryasharmaport.netlify.app/)
