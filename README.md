@@ -1,6 +1,6 @@
 # Arya Sharma
 
-### Open Source Contributor | GSoC 2026 Applicant
+### Open Source Contributor 
 
 I am a software developer focused on building efficient web and backend systems. My current goal is to master large-scale collaborative workflows and contribute meaningfully to the open-source ecosystem as I prepare for Google Summer of Code 2026.
 
